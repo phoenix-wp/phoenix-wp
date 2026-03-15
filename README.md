@@ -30,7 +30,8 @@ Mein Ziel ist es, Werkzeuge zu bauen, die echte Probleme lösen – minimalistis
 
 ## 🧱 Über mich
 
-Ich bin **Stefan Schneider**, Inhaber der **Phoenix Drogerie e.K.** mit **vitalstoffversand.com** 
+Ich bin **Stefan Schneider**, Inhaber der **Phoenix Drogerie e.K.** mit **vitalstoffversand.com**
+
 Seit vielen Jahren arbeite ich an operativen, regulatorischen und digitalen Workflows im Handel.  
 Aus dieser Praxis heraus entstehen Plugins, die nicht aus der Theorie kommen, sondern aus echten Anforderungen des täglichen Geschäfts.
 
